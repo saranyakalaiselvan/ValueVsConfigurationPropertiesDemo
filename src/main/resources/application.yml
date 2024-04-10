@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: ValueVsConfigurationPropertiesDemo
+
+employee:
+  age: 20
+
+services:
+  access-token:
+    base-url: Amazon Cognito Url
+    client-id : client-id-secret-secret
+    client_secret: client-secret
+
